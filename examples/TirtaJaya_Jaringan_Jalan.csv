@@ -1,0 +1,12 @@
+source,target,weight
+Warehouse,Hub_B,4
+Warehouse,Hub_C,7
+Warehouse,Relief_Center,12
+Hub_B,Hub_C,2
+Hub_B,Hospital,8
+Hub_C,Hospital,3
+Hub_C,Relief_Center,4
+Hospital,Customer,5
+Relief_Center,Customer,3
+Hub_B,Customer,14
+Hospital,Relief_Center,6
